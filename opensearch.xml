@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+  <ShortName>MetroSearch</ShortName>
+  <Description>Поиск MetroSearch по открытому интернету</Description>
+  <InputEncoding>UTF-8</InputEncoding>
+  <Image width="32" height="32" type="image/svg+xml">https://1metroharta.github.io/MetroSearch/favicon.svg</Image>
+  <Url type="text/html" method="get" template="https://1metroharta.github.io/MetroSearch/?q={searchTerms}"/>
+</OpenSearchDescription>

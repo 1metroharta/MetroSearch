@@ -1,0 +1,12 @@
+{
+  "name": "MetroSearch",
+  "short_name": "MetroSearch",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#14181f",
+  "theme_color": "#14181f",
+  "lang": "ru",
+  "icons": [
+    { "src": "./favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
